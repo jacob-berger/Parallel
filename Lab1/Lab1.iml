@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/Lab1/bin" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/Lab1">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/Lab1/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JavaSE-13" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
